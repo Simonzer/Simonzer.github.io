@@ -1,0 +1,39 @@
+html {
+font-size: 12px;
+font-family: 'Open Sans',sans-serif;
+background-color: rgb(180, 161, 163);
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 2px solid black;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(226, 193, 83);
+    text-shadow: 3px 3px 1px black;
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    text-align:center;
+    color: rgb(33, 153, 233);
+}
+
+p,li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
